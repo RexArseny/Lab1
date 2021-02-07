@@ -56,4 +56,9 @@
       <Filter>Файлы ресурсов</Filter>
     </ResourceCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Library Include="task8_lib.lib">
+      <Filter>Исходные файлы</Filter>
+    </Library>
+  </ItemGroup>
 </Project>
