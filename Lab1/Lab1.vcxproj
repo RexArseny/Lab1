@@ -143,6 +143,18 @@
     <ClCompile Include="task2.cpp" />
     <ClCompile Include="task3.cpp" />
     <ClCompile Include="task4.cpp" />
+    <ClCompile Include="task5_func.cpp" />
+    <ClCompile Include="task5_main.cpp" />
+    <ClCompile Include="task6_func.cpp" />
+    <ClCompile Include="task6_main.cpp" />
+    <ClCompile Include="task7_func.cpp" />
+    <ClCompile Include="task7_main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="func.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Lab1.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,8 +1,8 @@
 #include <iostream>
 #include <cmath>
+#include "func.h"
 using namespace std;
 
-double x, rezult;
 
 void main()
 {
@@ -23,10 +23,4 @@ void main()
         cin >> x;
         cout << rezult;
     }
-}
-
-void f()
-{
-    const int pi = 3.14;
-    rezult = sin(pi / 2 + 3 * x) / (1 - sin(3 * x - pi));
 }
