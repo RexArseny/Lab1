@@ -1,8 +1,8 @@
 #include <iostream>
 #include <cmath>
 #include "func.h"
+#include "task7_func.cpp"
 using namespace std;
-
 
 void main()
 {

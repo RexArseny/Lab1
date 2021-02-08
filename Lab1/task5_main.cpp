@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cmath>
+#include "task5_func.cpp"
 using namespace std;
 
 double f(double x);

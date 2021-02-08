@@ -1,8 +1,7 @@
 #include <iostream>
 #include <cmath>
+#include "task6_func.cpp"
 using namespace std;
-
-double x, rezult;
 
 void main()
 {
