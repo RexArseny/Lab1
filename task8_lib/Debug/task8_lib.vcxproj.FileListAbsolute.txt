@@ -1,0 +1,2 @@
+D:\MTUCI\3 курс\6 семестр\ООПСЗИ\Lab1\Debug\task8_lib.pdb
+D:\MTUCI\3 курс\6 семестр\ООПСЗИ\Lab1\task8_lib\Debug\task8_lib.pdb

@@ -1,0 +1,4 @@
+﻿  task2.cpp
+D:\MTUCI\3 курс\6 семестр\ООПСЗИ\Lab1\task2\task2.cpp(7,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\MTUCI\3 курс\6 семестр\ООПСЗИ\Lab1\task2\task2.cpp(12,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  task2.vcxproj -> D:\MTUCI\3 курс\6 семестр\ООПСЗИ\Lab1\Debug\task2.exe

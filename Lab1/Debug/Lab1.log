@@ -1,3 +1,0 @@
-﻿  task6_main.cpp
-D:\MTUCI\3 курс\6 семестр\ООПСЗИ\Lab1\Lab1\task6_func.cpp(8,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-D:\MTUCI\3 курс\6 семестр\ООПСЗИ\Lab1\Lab1\task6_main.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"

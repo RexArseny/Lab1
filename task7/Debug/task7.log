@@ -1,0 +1,6 @@
+﻿  task7_func.cpp
+D:\MTUCI\3 курс\6 семестр\ООПСЗИ\Lab1\task7\task7_func.cpp(8,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  task7_main.cpp
+D:\MTUCI\3 курс\6 семестр\ООПСЗИ\Lab1\task7\task7_main.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  task7.vcxproj -> D:\MTUCI\3 курс\6 семестр\ООПСЗИ\Lab1\Debug\task7.exe
